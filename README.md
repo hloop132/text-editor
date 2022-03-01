@@ -8,17 +8,19 @@ npm i
 npm start
 Make sure that Node.js is installed.
 
-## Instructions 
-
-
 ## Languages
-html, css, javascript
+html, css, javascript, json, node.js
 
 ## Contributors
 Chrissie, Denise, and  Nile
 
 ## Demo
 ![](./client/dist/assets/icons/Screenshot (77).png)
+![](./client/dist/assets/icons/Screenshot (79).png)
+
+## Links
+https://github.com/hloop132/text-editor.git
+https://agile-mountain-89852.herokuapp.com/
 
 ## Licence 
 none
