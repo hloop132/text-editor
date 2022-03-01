@@ -19,7 +19,9 @@ Chrissie, Denise, and  Nile
 ![](./client/dist/assets/icons/Screenshot (79).png)
 
 ## Links
+### Github
 https://github.com/hloop132/text-editor.git
+### Heroku
 https://agile-mountain-89852.herokuapp.com/
 
 ## Licence 
